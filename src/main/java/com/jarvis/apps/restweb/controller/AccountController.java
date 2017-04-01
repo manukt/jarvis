@@ -15,7 +15,7 @@ public class AccountController {
 
 	private static final Logger LOG = LoggerFactory.getLogger(AccountController.class);
 
-	public static final String BASE_PATH = "/account";
+	public static final String BASE_PATH = "/api/search";
 	public static final String ROOT = "/";
 	
 	@RequestMapping(value = "/create", method = RequestMethod.POST)
