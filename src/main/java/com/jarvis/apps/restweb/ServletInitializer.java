@@ -1,4 +1,4 @@
-package com.jarvis.apps;
+package com.jarvis.apps.restweb;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
