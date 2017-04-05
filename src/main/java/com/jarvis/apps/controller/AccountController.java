@@ -1,4 +1,4 @@
-package com.jarvis.apps.restweb.controller;
+package com.jarvis.apps.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

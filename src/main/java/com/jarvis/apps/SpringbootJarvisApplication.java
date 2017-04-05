@@ -1,12 +1,12 @@
-package com.jarvis.apps.restweb;
+package com.jarvis.apps;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JarvisApplication {
+public class SpringbootJarvisApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JarvisApplication.class, args);
+		SpringApplication.run(SpringbootJarvisApplication.class, args);
 	}
 }
